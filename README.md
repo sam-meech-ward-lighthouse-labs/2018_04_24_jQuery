@@ -79,5 +79,10 @@ See code for example
 
 ## Plugins
 
+https://jqueryui.com/effect/
+
+## Links
+
+https://mothereff.in/js-variables
 
 
